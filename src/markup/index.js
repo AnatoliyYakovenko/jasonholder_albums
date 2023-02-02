@@ -9,7 +9,7 @@ function getMarkup(data = []) {
   <td>${website}</td>
 </tr>`;
     })
-    .join("");
+    .join(""); 
 }
 
 function getMarkupUserTable({
